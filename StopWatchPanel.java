@@ -83,7 +83,6 @@ public class StopWatchPanel extends Panel
             switch(event.getKeyCode())
             {
                 case KeyEvent.VK_A: //A Key
-                    System.out.println("In here!");
                     startTimer();
                     break;
 
