@@ -1,8 +1,7 @@
 //***********************************************************
 //  StopWatchPanel.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 5 Assignment 5 Question 2
+//  Dustin Kaban
 //  August 7th, 2020
 //
 //  This is the main class for the GUI that displays to the user a
